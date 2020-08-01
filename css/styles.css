@@ -123,3 +123,9 @@ a:hover{
 .footer-img{
   padding: 5px;
 }
+
+@media (max-width: 800px) {
+.hide{
+  display: none;
+}
+}
