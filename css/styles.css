@@ -1,0 +1,126 @@
+body {
+  text-align: center;
+  font-family: 'Dosis', sans-serif;
+  font-size: large;
+}
+
+h1 {
+  color: white;
+  margin-top: 100px;
+  margin-bottom: 10px;
+  padding-bottom: 20px;
+  font-size: 4.5rem;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h2 {
+  font-family: 'Josefin Slab', serif;
+  font-size: 3rem;
+  padding: 2%;
+}
+
+h3 {
+  font-family: 'Ubuntu', sans-serif;
+  padding: 10px;
+}
+
+p {
+  padding: 20px;
+  font-size: 1.2rem;
+  line-height: 45px;
+}
+
+li{
+  padding: 10px;
+  font-size: 1.2rem;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+a:hover{
+  text-decoration: none;
+  color: black;
+}
+/* home */
+.header {
+  background-color: #ff5200;
+}
+
+.profile-img {
+  width: 45%;
+  border-radius: 100%;
+  margin-bottom: 150px;
+  margin-top: 30px;
+}
+
+.header-btn {
+  margin-bottom: 20px;
+}
+
+/* navbar */
+.navbar {
+  padding: 50px;
+  font-size: 1.2rem;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+}
+
+/* About */
+.about {
+  padding: 20px;
+  margin: 10% 3% 3%;
+}
+
+.about-content{
+  padding: 2% 5%;
+}
+
+
+.edu-img {
+  width: 20%;
+  margin: 10px;
+}
+
+.skill-img {
+  width: 20%;
+  margin: 10px;
+}
+
+/* portfolio */
+#Portfolio{
+    padding: 7% 8%;
+    margin-bottom: 100px;
+}
+.portfolio {
+  padding: 5%;
+}
+
+.btn-block{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.list{
+  text-align: center;
+}
+
+.card{
+  margin: 10px;
+  margin-bottom: 30px;
+}
+
+/* footer */
+#footer{
+  text-align: center;
+  padding: 7% 15%;
+  margin-bottom: 100px;
+}
+
+.footer-img{
+  padding: 5px;
+}

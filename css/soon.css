@@ -1,0 +1,16 @@
+body{
+  background-color: #ff5200;
+  text-align: center;
+  color: white;
+  font-family: 'Dosis', sans-serif;
+}
+
+h1{
+  margin-top: 15%;
+  font-size: 5rem;
+  padding: 50px;
+}
+
+.btn{
+  font-size: 2rem;
+}
